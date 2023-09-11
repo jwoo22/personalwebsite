@@ -7,15 +7,15 @@ author_profile: true
 
 <center>
 
-    <a href="https://jaeminwoo.com/images/portfolio/000029690004.jpg"><img src="/images/portfolio/000029690004.jpg" alt="horses" class="center" width="300"><br>
+    <a href="https://jaeminwoo.com/images/portfolio/000029690004.jpg"><img src="/images/portfolio/000029690004.jpg" alt="horses" class="center" width="400"><br>
     
     <hr>
 
-    <a href="https://jaeminwoo.com/images/portfolio/000029700011.jpg"><img src="/images/portfolio/000029700011.jpg" alt="donnaeko_fall" class="center" width="300"><br>
+    <a href="https://jaeminwoo.com/images/portfolio/000029700011.jpg"><img src="/images/portfolio/000029700011.jpg" alt="donnaeko_fall" class="center" width="400"><br>
     
     <hr>
 
-    <a href="https://jaeminwoo.com/images/portfolio/000023730006.jpg"><img src="/images/portfolio/000023730006.jpg" alt="tea" class="center" width="300"><br>
+    <a href="https://jaeminwoo.com/images/portfolio/000023730006.jpg"><img src="/images/portfolio/000023730006.jpg" alt="tea" class="center" width="400"><br>
     
     <hr>
 
