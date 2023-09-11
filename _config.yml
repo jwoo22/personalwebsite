@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jaemin Woo"
   avatar           : "profile.jpg"
-  bio              : "PhD student in economics"
+  bio              : "PhD student in economics at Brown University"
   location         : "Providence, RI"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dh04RxEAAAAJ&hl=en"
-  email            :
+  email            : "mailto:jaemin_woo@brown.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/jwoo22"
+  github           : "jwoo22"
   google_plus      :
   keybase          :
   instagram        :
