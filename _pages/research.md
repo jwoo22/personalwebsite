@@ -8,16 +8,16 @@ author_profile: true
 Research in progress
 ======
 
-**Effects of Local Labor Market Conditions on High School Students' Aspirations and College Enrollment** 
+**Economic Conditions and Aspirations** 
 
 **Songs and Preferences** 
 
 Selected pre-doctoral publications
-------
+======
 
 ## Health Care Policy
 
-**Inappropriate Prescribing of Opioids for Patients Undergoing Surgery** (Varady N, Worsham C, Chen A, Smith E, **Woo J**, Jena AB). 2022. *Proceedings of the National Academy of Sciences*.
+[**Inappropriate Prescribing of Opioids for Patients Undergoing Surgery**](https://www.pnas.org/doi/10.1073/pnas.2210226119) (Varady N, Worsham C, Chen A, Smith E, **Woo J**, Jena AB). 2022. *Proceedings of the National Academy of Sciences*.
 
 **Carbon Monoxide Poisoning during Major U.S. Power Outages** (Worsham C, **Woo J**, Kearney M, Bray C, Jena AB). 2022. *New England Journal of Medicine*.
 
