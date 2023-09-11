@@ -8,6 +8,4 @@ redirect_from:
 ---
 
 
-<center>
-  <object data="/files/cv_woo_final.pdf" type="application/pdf" width="100%" height="500px">
-<center>
+<p><a href="/files/cv_woo_final.pdf">CV<a><p>
