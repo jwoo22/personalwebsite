@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 
-<img src="/images/portfolio/000029700011.jpg" width="200"/>
+<img src="/images/portfolio/000029700011.jpg" alt="donnaeko_fall" lass="center" width="500">
