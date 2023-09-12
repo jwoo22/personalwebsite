@@ -7,6 +7,7 @@ author_profile: true
 
 Research in progress
 ======
+---
 
 **Economic Conditions and Aspirations** 
 
@@ -14,6 +15,7 @@ Research in progress
 
 Selected pre-doctoral publications
 ======
+---
 
 ## Health Care Policy
 
