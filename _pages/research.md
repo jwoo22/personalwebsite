@@ -33,4 +33,4 @@ England Journal of Medicine*.
 ## Macroeconomics
 
 [**Forecasting private consumption with Google Trends data**](https://onlinelibrary.wiley.com/doi/abs/10.1002/for.2559) (Woo J, Owen A). 2019. *Journal of
-Forecasting*.
+Forecasting*. (*Undergraduate Thesis*).
