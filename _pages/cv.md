@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-<p><a href="/files/cv_woo_final.pdf">CV<a><p>
+<p><a href="/files/cv_woo.pdf">CV<a><p>
