@@ -9,9 +9,8 @@ Research in progress
 ======
 ---
 
-**Economic Conditions and Aspirations** 
+**Reverse Gender Gap in Education and Family Dynamics** 
 
-**Songs and Preferences** 
 
 Selected pre-doctoral publications
 ======

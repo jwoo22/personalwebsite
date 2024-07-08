@@ -6,9 +6,6 @@ main:
   - title: "Research"
     url: /research/  
     
-  - title: "Photography"
-    url: /portfolio/
-    
   - title: "CV"
     url: /cv/
     
