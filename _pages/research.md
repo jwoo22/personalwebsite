@@ -9,7 +9,7 @@ Research in progress
 ======
 ---
 
-**Effects of the Reverse Gender Gap in Education on Family Dynamics** 
+**The Reverse Gender Gap in Education and Family Dynamics** 
 
 
 Selected pre-doctoral publications
